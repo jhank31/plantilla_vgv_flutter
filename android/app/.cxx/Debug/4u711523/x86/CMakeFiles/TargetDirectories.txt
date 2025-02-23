@@ -1,0 +1,2 @@
+C:/Users/jhank/flutter_personal/plantilla_vgv/android/app/.cxx/Debug/4u711523/x86/CMakeFiles/edit_cache.dir
+C:/Users/jhank/flutter_personal/plantilla_vgv/android/app/.cxx/Debug/4u711523/x86/CMakeFiles/rebuild_cache.dir
