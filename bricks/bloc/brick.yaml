@@ -1,0 +1,33 @@
+name: bloc
+description: A new brick created with the Mason CLI.
+
+# The following defines the brick repository url.
+# Uncomment and update the following line before publishing the brick.
+# repository: https://github.com/my_org/my_repo
+
+# The following defines the version and build number for your brick.
+# A version number is three numbers separated by dots, like 1.2.34
+# followed by an optional build number (separated by a +).
+version: 0.1.0+1
+
+# The following defines the environment for the current brick.
+# It includes the version of mason that the brick requires.
+environment:
+  mason: ^0.1.0
+
+vars:
+  name:
+    type: string
+    description: Name of the bloc
+    default: feature
+    prompt: What is the name of the bloc?
+  eventsList:
+    type: list
+    description: List of events
+    prompt: Which events would you like to include?
+    separator: ','
+  statesList:
+    type: list
+    description: List of states
+    prompt: Which states would you like to include?
+    separator: ','
