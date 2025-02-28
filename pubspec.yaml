@@ -8,7 +8,7 @@ environment:
 
 # Dependencias de la plantilla
 dependencies:
-  auto_route: ^9.3.0+1 #Manejo de rutas
+  auto_route: ^10.0.0 #Manejo de rutas
   bloc: ^9.0.0 #Manejo de estados
   dio: ^5.8.0+1 #Manejador de peticiones HTTP
   equatable: ^2.0.7 #Comparador de objetos (trabaja junto a bloc)
@@ -25,7 +25,7 @@ dependencies:
   talker: ^4.6.12 #Manejador de logs de manera visual
   talker_flutter: ^4.6.12 #Manejador de logs de manera visual
 dev_dependencies:
-  auto_route_generator: ^9.3.1 #Generador de rutas
+  auto_route_generator: ^10.0.1 #Generador de rutas
   bloc_test: ^10.0.0 #Manejador de pruebas unitarias
   build_runner: ^2.4.15 #Manejador de generadores de código
   flutter_test: 
