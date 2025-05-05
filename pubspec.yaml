@@ -15,7 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
  
-  flutter_bloc: ^9.0.0 #Manejo de estados dentro de flutter
+  flutter_bloc: ^9.1.1 #Manejo de estados dentro de flutter
   flutter_localizations: #Manejo de localizaciones
     sdk: flutter
   flutter_svg: ^2.0.17 #Manejador de SVG
